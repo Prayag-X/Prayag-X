@@ -57,7 +57,7 @@ most used social things</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/goodbye.gif">
+<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/thanks.gif">
 </div>
 <hr>
 </div>
