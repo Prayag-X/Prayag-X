@@ -1,5 +1,5 @@
 <body>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">💖 WELCOME 💖</h1>
 <br>
 <div align="center">
  <p <h5></h5> <img src="https://komarev.com/ghpvc/?username=Prayag-X&label=Profile%20views&color=red&style=for-the-badge"
@@ -9,7 +9,7 @@
 </div>
 <br>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center">🦊 ABOUT ME 🦊</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/profile1.gif" align="right" width="auto" height="220px" >
 <li>
 <b>Name:</b>Prayag Biswas</li>
@@ -26,7 +26,7 @@
 </div>
 <div>
 <br><br><br>
-<h2 align="center">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">📇 SKILLS 📇</h2>
 <p>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left">
 </div>
@@ -39,13 +39,13 @@ I am very bad at writing. So will think about this part later
 </div>
 <div>
 <br><br><br><br><br><br><br><br>
-<p>
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Prayag-X" />
- <img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=Prayag-X&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&stroke=1A00DD&ring=1A00DD&fire=D1DD00&background=0D1117&currStreakNum=DDDDDD&sideNums=2E38DD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DD7272" alt="Prayag-X"/>
-</p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prayag-X&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&stroke=1A00DD&ring=1A00DD&fire=D1DD00&background=0D1117&currStreakNum=DDDDDD&sideNums=2E38DD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DD7272" alt="Prayag-X"/>
+</div>
 <br><br><br>
-<h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">📝 CONTACTS 📝</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/contact1.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Hewe awe some of my <br>
@@ -55,7 +55,7 @@ most used social things</p>
 <br>
 </div>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 THANKS FOR READING 💖</h2>
 <div align="center">
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/thanks.gif">
 </div>
