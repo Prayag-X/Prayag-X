@@ -42,9 +42,16 @@
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ <br>
+ <br>
+ <img src="https://img.shields.io/badge/adobe%20after%20effects%20-%2331A8FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%2331A8FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20XD%20-%2331A8FF.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20illustrator%20-%2331A8FF.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+ <img src="https://img.shields.io/badge/blender%20-%2331A8FF.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
+ <img src="https://img.shields.io/badge/figma%20-%2331A8FF.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
  <br><br>
-I am very bad at writing. So will think about this part later
 </p>
 <br>
 </div>
