@@ -31,8 +31,19 @@
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+<p align="center">
+ <img src="https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++%20-%23E34F26.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%23-%23E34F26.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+ <br><br>
 I am very bad at writing. So will think about this part later
 </p>
 <br>
