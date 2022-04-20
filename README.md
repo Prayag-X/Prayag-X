@@ -50,7 +50,7 @@ I am very bad at writing. So will think about this part later
 <br>
 <p align="center">Hewe awe some of my <br>
 most used social things</p>
-<p align="center"><a href="https://www.instagram.com/___dragon_x___/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="discordapp.com/users/575390394477707287" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.instagram.com/___dragon_x___/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.discordapp.com/users/575390394477707287" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 <br>
 </div>
