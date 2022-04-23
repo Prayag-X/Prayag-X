@@ -11,21 +11,13 @@
 <div>
 <h2 align="center">🦊 ABOUT ME 🦊</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/profile1.gif" align="right" width="auto" height="220px" >
-<li>
-<b>Name:</b>Prayag Biswas</li>
-<li>
-<b>Loves:</b> Tech Stuff, Web Development, Graphic Design,
-</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Hobbys:</b> 
-</li>
+<p>
+Umm I will write this section later :)
+</p>
 <br><br><br>
 </div>
 <div>
-<br><br><br>
+<br><br><br><br><br><br>
 <h2 align="center">📇 SKILLS 📇</h2>
 <p>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left">
@@ -59,7 +51,7 @@
 <br>
 </div>
 <div>
-<br><br><br><br><br><br>
+<br><br>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Prayag-X" />
@@ -68,14 +60,13 @@
 <br><br><br>
 <h2 align="center">📝 CONTACTS 📝</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/contact1.gif" align="right" width="373.5px" height="208.5px">
-<br>
-<p align="center">Hewe awe some of my <br>
-most used social things</p>
+<br><br>
 <p align="center"><a href="https://www.instagram.com/___dragon_x___/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.discordapp.com/users/575390394477707287" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://www.youtube.com/channel/UCQMG13u538farb8ZxC4NAEg" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCQMG13u538farb8ZxC4NAEg?label=DRAGON%20X%20Views&logo=Youtube&logoColor=red&style=for-the-badge"/></a></p>
 <br>
 </div>
 <div>
+<br><br><br>
 <h2 align="center">💖 THANKS FOR READING 💖</h2>
 <div align="center">
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/thanks.gif">
