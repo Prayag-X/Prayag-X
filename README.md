@@ -53,7 +53,7 @@ Umm I will write this section later :)
 <br>
 </div>
 <div>
-<br><br>
+<br>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Prayag-X" />
