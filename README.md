@@ -20,7 +20,7 @@ Umm I will write this section later :)
 <br><br><br><br><br><br>
 <h2 align="center">📇 SKILLS 📇</h2>
 <p>
-<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left">
+<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left" width="500px" height="320px">
 </div>
 <div>
 <p align="center">
@@ -34,6 +34,7 @@ Umm I will write this section later :)
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+ <br>
  <br>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
