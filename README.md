@@ -5,7 +5,7 @@
  <p <h5></h5> <img src="https://komarev.com/ghpvc/?username=Prayag-X&label=Profile%20views&color=red&style=for-the-badge"
     alt="Prayag-X" /> 
   </p>
-<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/welcome2.gif">
+<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/welcome2.gif" width="auto" height="400px">
 </div>
 <br>
 <div>
