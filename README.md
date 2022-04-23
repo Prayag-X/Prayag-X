@@ -40,6 +40,8 @@ Umm I will write this section later :)
  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
  <br>
+ <img src="https://img.shields.io/badge/unity%20-%23092E20.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+ <br>
  <br>
  <img src="https://img.shields.io/badge/adobe%20after%20effects%20-%230769AD.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
  <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%230081CB.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
@@ -60,8 +62,10 @@ Umm I will write this section later :)
 <br><br><br>
 <h2 align="center">📝 CONTACTS 📝</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/contact1.gif" align="right" width="373.5px" height="208.5px">
-<br><br>
-<p align="center"><a href="https://www.instagram.com/___dragon_x___/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.discordapp.com/users/575390394477707287" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<br>
+<p align="center"><a href="https://www.linkedin.com/in/prayag-biswas-293644215/" target="_blank"><img src="https://img.shields.io/badge/Prayag%20Biswas%20-%230081CB.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.instagram.com/___dragon_x___/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%23FF2D20.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.discordapp.com/users/575390394477707287" target="_blank"><img src="https://img.shields.io/badge/Dragon_X%20-%23007ACC.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://www.youtube.com/channel/UCQMG13u538farb8ZxC4NAEg" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCQMG13u538farb8ZxC4NAEg?label=DRAGON%20X%20Views&logo=Youtube&logoColor=red&style=for-the-badge"/></a></p>
 <br>
 </div>
