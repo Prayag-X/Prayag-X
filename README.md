@@ -32,31 +32,34 @@
 </div>
 <div>
 <p align="center">
- <img src="https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/C++%20-%23E34F26.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
- <img src="https://img.shields.io/badge/C%23-%23E34F26.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
  <br>
  <br>
- <img src="https://img.shields.io/badge/adobe%20after%20effects%20-%2331A8FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%2331A8FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20XD%20-%2331A8FF.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+ <br>
+ <br>
+ <img src="https://img.shields.io/badge/adobe%20after%20effects%20-%230769AD.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%230081CB.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20XD%20-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20illustrator%20-%2331A8FF.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
- <img src="https://img.shields.io/badge/blender%20-%2331A8FF.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
- <img src="https://img.shields.io/badge/figma%20-%2331A8FF.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
  <br><br>
 </p>
 <br>
 </div>
 <div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Prayag-X" />
