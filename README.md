@@ -12,7 +12,7 @@
 <h2 align="center">🦊 ABOUT ME 🦊</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/profile1.gif" align="right" width="auto" height="220px">
 <p>
-Umm I will write this section later :)
+Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I love to do random stuffs in python and flutter. Apparently knows how to use 3-4 Adobe softwares as well :)
 </p>
 <br><br><br>
 </div>
