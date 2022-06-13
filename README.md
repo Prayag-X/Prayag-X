@@ -20,7 +20,7 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
 <br><br><br><br><br><br>
 <h2 align="center">📇 SKILLS 📇</h2>
 <p>
-<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left" width="200px">
+<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left" width="400px">
 </div>
 <div>
 <p align="center">
@@ -43,11 +43,11 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
  <img src="https://img.shields.io/badge/unity%20-%23092E20.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
  <br>
  <br>
- <img src="https://img.shields.io/badge/adobe%20after%20effects%20-%230769AD.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%230081CB.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20XD%20-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
- <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+ <img src="https://img.shields.io/badge/after%20effects%20-%230769AD.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+ <img src="https://img.shields.io/badge/premiere%20pro%20-%230081CB.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+ <img src="https://img.shields.io/badge/XD%20-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
+ <img src="https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
  <br><br>
 </p>
 <br>
