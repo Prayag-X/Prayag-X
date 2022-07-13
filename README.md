@@ -20,7 +20,7 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
 <br><br><br><br><br><br>
 <h2 align="center">📇 SKILLS 📇</h2>
 <p>
-<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left" width="400px">
+<img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left" width="450px">
 </div>
 <div>
 <p align="center">
