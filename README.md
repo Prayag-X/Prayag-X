@@ -56,6 +56,9 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
 <br>
 <div align="center">
  <img src="https://img.shields.io/badge/gdsc%20design%20lead%20-21|22%20-%2314354C.svg?&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/camp%20yellow%20-SDI%20-%2314354C.svg?&style=for-the-badge"/>
+ <br>
+ <img src="https://img.shields.io/badge/smart%20india%20hackathon%202022%20-winner%20-%2314354C.svg?&style=for-the-badge"/>
  <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Prayag-X" />
