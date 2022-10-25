@@ -19,7 +19,15 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
 <div>
 <br><br><br><br><br><br>
 <h2 align="center">📇 SKILLS 📇</h2>
-<p>
+<p align="center">
+ <img src="https://img.shields.io/badge/gdsc%20%2021|22%20-design%20lead%20-%2314354C.svg?&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/camp%20yellow%20-SDI%20-%2314354C.svg?&style=for-the-badge"/>
+ <br>
+ <img src="https://img.shields.io/badge/smart%20india%20hackathon%202022%20-winner%20-%2314354C.svg?&style=for-the-badge"/>
+ <br>
+ <br>
+ <br>
+ <br>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/knowledge.gif" align="left" width="450px">
 </div>
 <div>
@@ -50,17 +58,10 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
  <img src="https://img.shields.io/badge/illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
  <br><br>
 </p>
-<br>
 </div>
 <div>
 <br>
 <div align="center">
- <img src="https://img.shields.io/badge/gdsc%20%2021|22%20-design%20lead%20-%2314354C.svg?&style=for-the-badge"/>
- <img src="https://img.shields.io/badge/camp%20yellow%20-SDI%20-%2314354C.svg?&style=for-the-badge"/>
- <br>
- <img src="https://img.shields.io/badge/smart%20india%20hackathon%202022%20-winner%20-%2314354C.svg?&style=for-the-badge"/>
- <br>
- <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prayag-X&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Prayag-X" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prayag-X&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&stroke=1A00DD&ring=1A00DD&fire=D1DD00&background=0D1117&currStreakNum=DDDDDD&sideNums=2E38DD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=DD7272" alt="Prayag-X"/>
