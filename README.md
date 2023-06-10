@@ -12,7 +12,7 @@
 <h2 align="center">🦊 ABOUT ME 🦊</h2>
 <img src="https://github.com/Prayag-X/Prayag-X/blob/main/Assets/profile1.gif" align="right" width="auto" height="220px">
 <p>
-Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I love to do random stuffs in python and flutter. Apparently knows how to use 3-4 Adobe softwares as well :)
+Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I can ace in Flutter and clutch in Python as well. I also have some knowledge about UI UX designing and the required softwares like Figma other Adobe softwares. Also, call me Dragon :))
 </p>
 <br><br><br>
 </div>
@@ -54,6 +54,8 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I lov
 <div>
 <br>
 <div align="center">
+ <img src="https://img.shields.io/badge/GSOC%20%2023%20-Liquid%20Galaxy%20-%2314354C.svg?&style=for-the-badge"/>
+ <br>
  <img src="https://img.shields.io/badge/gdsc%20%2021|22%20-design%20lead%20-%2314354C.svg?&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/camp%20yellow%20-SDI%20-%2314354C.svg?&style=for-the-badge"/>
  <br>
