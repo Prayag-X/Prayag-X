@@ -54,7 +54,7 @@ Hello, I am Prayag Biswas, an undergraduate CSE student from IIIT Kalyani. I can
 <div>
 <br>
 <div align="center">
- <img src="https://img.shields.io/badge/GSOC%20%2023%20-Liquid%20Galaxy%20-%2314354C.svg?&style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Google%20Summer%20Of%20Code%20-Liquid%20Galaxy%20-%2314354C.svg?&style=for-the-badge"/>
  <br>
  <img src="https://img.shields.io/badge/gdsc%20%2021|22%20-design%20lead%20-%2314354C.svg?&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/camp%20yellow%20-SDI%20-%2314354C.svg?&style=for-the-badge"/>
