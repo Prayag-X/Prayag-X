@@ -16,13 +16,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg" alt="contribution snake" />
-
-<br/><br/>
-
-<!-- ─────────────────────────────  STREAK  ───────────────────────────── -->
-
-<img width="480" src="https://github-readme-streak-stats.herokuapp.com?user=Prayag-X&hide_border=true&background=0d1117&stroke=00D4FF&ring=8A2BE2&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+<img width="100%" src="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg?v=2" alt="contribution snake" />
 
 </div>
 
