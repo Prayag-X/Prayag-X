@@ -10,25 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=Prayag+Biswas;aka+Dragon+%F0%9F%90%89" alt="typing" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Prayag-X&label=Profile%20views&color=00d4ff&style=flat-square" alt="profile views" />
-
 </div>
-
-<!-- ─────────────────────────────  ACTIVITY GRAPH  ───────────────────────────── -->
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prayag-X&bg_color=0d1117&color=00d4ff&line=8a2be2&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 
 <!-- ─────────────────────────────  CONTRIBUTION SNAKE  ───────────────────────────── -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg" />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/Prayag-X/Prayag-X/output/github-snake.svg" alt="contribution snake" />
 
 <br/><br/>
 
